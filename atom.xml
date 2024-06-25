@@ -6,7 +6,7 @@
   <link href="https://senlou.github.io/atom.xml" rel="self"/>
   
   <link href="https://senlou.github.io/"/>
-  <updated>2024-06-25T03:05:16.967Z</updated>
+  <updated>2024-06-25T08:27:04.017Z</updated>
   <id>https://senlou.github.io/</id>
   
   <author>
@@ -17,19 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>数学</title>
+    <link href="https://senlou.github.io/posts/fe7e69f4.html"/>
+    <id>https://senlou.github.io/posts/fe7e69f4.html</id>
+    <published>2024-06-25T05:21:11.000Z</published>
+    <updated>2024-06-25T08:27:04.017Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="集合与数理统计"><a href="#集合与数理统计" class="headerlink" title="集合与数理统计"></a>集合与数理统计</h1><h2 id="集合中元素的三大特性"><a href="#集合中元素的三大特性" class="headerlink" title="集合中元素的三大特性"></a>集合中元素的三大特性</h2><p>确定性、互异性、无序性</p><h2 id="常用的数集"><a href="#常用的数集" class="headerlink" title="常用的数集"></a>常用的数集</h2><p>R 实数集<br>Q 有理数集<br>Z 整数集<br>N 自然数集<br>N* 正整数集<br>C 复数集</p><h2 id="集合的分类"><a href="#集合的分类" class="headerlink" title="集合的分类"></a>集合的分类</h2><p>有限集<br>无限集<br>空集</p><p>$$a \in b$$</p><h2 id="集合之间的关系"><a href="#集合之间的关系" class="headerlink" title="集合之间的关系"></a>集合之间的关系</h2><table><thead><tr><th>名称</th><th>记号</th><th>意义</th></tr></thead><tbody><tr><td>子集</td><td></td><td></td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;集合与数理统计&quot;&gt;&lt;a href=&quot;#集合与数理统计&quot; class=&quot;headerlink&quot; title=&quot;集合与数理统计&quot;&gt;&lt;/a&gt;集合与数理统计&lt;/h1&gt;&lt;h2 id=&quot;集合中元素的三大特性&quot;&gt;&lt;a href=&quot;#集合中元素的三大特性&quot; class=&quot;head</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>技术随想</title>
     <link href="https://senlou.github.io/posts/dfb8a81f.html"/>
     <id>https://senlou.github.io/posts/dfb8a81f.html</id>
     <published>2024-06-25T02:39:05.000Z</published>
-    <updated>2024-06-25T03:05:16.967Z</updated>
+    <updated>2024-06-25T05:18:50.017Z</updated>
     
-    <content type="html"><![CDATA[<p>我是技术随想</p>]]></content>
+    <content type="html"><![CDATA[<p>我是技术随想</p><h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;我是技术随想&lt;/p&gt;
-</summary>
+&lt;h1 id=&quot;标题一&quot;&gt;&lt;a href=&quot;#标题一&quot; class=&quot;headerlink&quot; title=&quot;标题一&quot;&gt;&lt;/a&gt;标题一&lt;/h1&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gu</summary>
       
     
     
