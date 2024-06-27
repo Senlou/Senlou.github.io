@@ -6,7 +6,7 @@
   <link href="https://senlou.github.io/atom.xml" rel="self"/>
   
   <link href="https://senlou.github.io/"/>
-  <updated>2024-06-26T04:57:27.725Z</updated>
+  <updated>2024-06-27T02:46:10.372Z</updated>
   <id>https://senlou.github.io/</id>
   
   <author>
@@ -17,13 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>视频</title>
+    <link href="https://senlou.github.io/posts/fcea04bb.html"/>
+    <id>https://senlou.github.io/posts/fcea04bb.html</id>
+    <published>2024-06-27T02:43:33.000Z</published>
+    <updated>2024-06-27T02:46:10.372Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://cirno.baka9.eu.org/D69H06fA4yuwtw_5b794a9b-0e7e-4208-8f9d-eb8190649aa7_Source.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"  height="580" quality="high" > </iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;iframe src=&quot;https://cirno.baka9.eu.org/D69H06fA4yuwtw_5b794a9b-0e7e-4208-8f9d-eb8190649aa7_Source.mp4&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborde</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>数学</title>
     <link href="https://senlou.github.io/posts/fe7e69f4.html"/>
     <id>https://senlou.github.io/posts/fe7e69f4.html</id>
     <published>2024-06-25T05:21:11.000Z</published>
-    <updated>2024-06-26T04:57:27.725Z</updated>
+    <updated>2024-06-27T02:41:47.194Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="集合与数理统计"><a href="#集合与数理统计" class="headerlink" title="集合与数理统计"></a>集合与数理统计</h1><h2 id="集合与元素的关系"><a href="#集合与元素的关系" class="headerlink" title="集合与元素的关系"></a>集合与元素的关系</h2><p>$\in、\not\in$,必居其一</p><h2 id="集合中元素的三大特性"><a href="#集合中元素的三大特性" class="headerlink" title="集合中元素的三大特性"></a>集合中元素的三大特性</h2><p>确定性、互异性、无序性</p><h2 id="常用的数集"><a href="#常用的数集" class="headerlink" title="常用的数集"></a>常用的数集</h2><p>R 实数集<br>Q 有理数集<br>Z 整数集<br>N 自然数集<br>N* 正整数集<br>C 复数集</p><h2 id="集合的分类"><a href="#集合的分类" class="headerlink" title="集合的分类"></a>集合的分类</h2><p>有限集<br>无限集<br>空集</p><h2 id="集合的表示法"><a href="#集合的表示法" class="headerlink" title="集合的表示法"></a>集合的表示法</h2><p>举例法<br>描述法<br>图示法</p><h2 id="集合之间的关系"><a href="#集合之间的关系" class="headerlink" title="集合之间的关系"></a>集合之间的关系</h2><table><thead><tr><th align="center">名称</th><th align="center">记号</th><th align="center">意义</th></tr></thead><tbody><tr><td align="center">子集</td><td align="center">$A \subseteq B$</td><td align="center">A中的任意一元素都属于B</td></tr><tr><td align="center">真子集</td><td align="center">$A \subsetneq B$</td><td align="center">$A \subseteq B$,且B中至少有一元素不属于A</td></tr><tr><td align="center">集合相等</td><td align="center">$A &#x3D; B$</td><td align="center">A中的任意元素都属于B，B中的任意元素都属于A</td></tr></tbody></table><h2 id="集合的子集个数"><a href="#集合的子集个数" class="headerlink" title="集合的子集个数"></a>集合的子集个数</h2><p>集合$\{a_1,a_2,…a^n\}$的子集个数为$2^n$个;真子集个数为$2^n-1$个；非空子集个数为$2^n-1$个；非空真子集个数为$2^n-2$；满足关系$\{a_1,a_2,…,a_m\} \subseteq \{a_1,a_2,…,a_n\}$的集合A有$2^{n-m}$个</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="集合与数理统计"><a href="#集合与数理统计" class="headerlink" title="集合与数理统计"></a>集合与数理统计</h1><h2 id="集合与元素的关系"><a href="#集合与元素的关系" class="headerlink" title="集合与元素的关系"></a>集合与元素的关系</h2><p>$\in、\not\in$,必居其一</p><h2 id="集合中元素的三大特性"><a href="#集合中元素的三大特性" class="headerlink" title="集合中元素的三大特性"></a>集合中元素的三大特性</h2><p>确定性、互异性、无序性</p><h2 id="常用的数集"><a href="#常用的数集" class="headerlink" title="常用的数集"></a>常用的数集</h2><p>R 实数集<br>Q 有理数集<br>Z 整数集<br>N 自然数集<br>N* 正整数集<br>C 复数集</p><h2 id="集合的分类"><a href="#集合的分类" class="headerlink" title="集合的分类"></a>集合的分类</h2><p>有限集<br>无限集<br>空集</p><h2 id="集合的表示法"><a href="#集合的表示法" class="headerlink" title="集合的表示法"></a>集合的表示法</h2><p>举例法<br>描述法<br>图示法</p><h2 id="集合之间的关系"><a href="#集合之间的关系" class="headerlink" title="集合之间的关系"></a>集合之间的关系</h2><table><thead><tr><th align="center">名称</th><th align="center">记号</th><th align="center">意义</th><th align="center">示例图</th></tr></thead><tbody><tr><td align="center">子集</td><td align="center">$A \subseteq B$</td><td align="center">A中的任意一元素都属于B</td><td align="center"><img src="/../img/%E6%95%B0%E5%AD%A6/%E5%AD%90%E9%9B%862.png" alt="子集"><img src="/../img/%E6%95%B0%E5%AD%A6/%E5%AD%90%E9%9B%86.png" alt="子集"></td></tr><tr><td align="center">真子集</td><td align="center">$A \subsetneq B$</td><td align="center">$A \subseteq B$,且B中至少有一元素不属于A</td><td align="center"></td></tr><tr><td align="center">集合相等</td><td align="center">$A &#x3D; B$</td><td align="center">A中的任意元素都属于B，B中的任意元素都属于A</td><td align="center"></td></tr></tbody></table><h2 id="集合的子集个数"><a href="#集合的子集个数" class="headerlink" title="集合的子集个数"></a>集合的子集个数</h2><p>集合$\{a_1,a_2,…a^n\}$的子集个数为$2^n$个;真子集个数为$2^n-1$个；非空子集个数为$2^n-1$个；非空真子集个数为$2^n-2$；满足关系$\{a_1,a_2,…,a_m\} \subseteq \{a_1,a_2,…,a_n\}$的集合A有$2^{n-m}$个</p><h2 id="集合的运算（交集、并集、补集）"><a href="#集合的运算（交集、并集、补集）" class="headerlink" title="集合的运算（交集、并集、补集）"></a>集合的运算（交集、并集、补集）</h2><table><thead><tr><th align="center">名称</th><th align="center">记号</th><th align="center">意义</th></tr></thead><tbody><tr><td align="center">交集</td><td align="center">$A \cap B$</td><td align="center">$\{ x|x \in A,且x \in B\}$</td></tr><tr><td align="center">并集</td><td align="center">$A \cup B$</td><td align="center">$\{ x| x \in A,或x \in B\}$</td></tr><tr><td align="center">补集</td><td align="center">$\complement_u B$</td><td align="center">$\{x | x \in U,且x \not\in A \}$</td></tr></tbody></table><h2 id="充分条件、必要条件与充要条件"><a href="#充分条件、必要条件与充要条件" class="headerlink" title="充分条件、必要条件与充要条件"></a>充分条件、必要条件与充要条件</h2><ol><li>$p \Rightarrow q : p是q的充分条件,q是p的的必要条件$</li><li>$p \Leftarrow q : q是p的充分条件,p是q的必要条件$</li><li>$p \Leftrightarrow q : p是q的充要条件,q是p的的充要条件$</li></ol><h1 id="不等式"><a href="#不等式" class="headerlink" title="不等式"></a>不等式</h1><p>$a&gt;b \Leftrightarrow b&lt;a;$<br>$a&gt;b,b&gt;c \Rightarrow a&gt;c;$</p>]]></content>
     
     
       
