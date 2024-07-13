@@ -4,7 +4,25 @@
   <url>
     <loc>https://senlou.github.io/posts/fe7e69f4.html</loc>
     
-    <lastmod>2024-07-07</lastmod>
+    <lastmod>2024-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://senlou.github.io/posts/ff0b66de.html</loc>
+    
+    <lastmod>2024-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://senlou.github.io/posts/e246e5b.html</loc>
+    
+    <lastmod>2024-07-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +31,7 @@
   <url>
     <loc>https://senlou.github.io/posts/dfb8a81f.html</loc>
     
-    <lastmod>2024-07-02</lastmod>
+    <lastmod>2024-07-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +40,7 @@
   <url>
     <loc>https://senlou.github.io/abc.html</loc>
     
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +67,7 @@
 
   <url>
     <loc>https://senlou.github.io/</loc>
-    <lastmod>2024-07-07</lastmod>
+    <lastmod>2024-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
