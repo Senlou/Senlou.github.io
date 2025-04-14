@@ -6,7 +6,7 @@
   <link href="https://senlou.github.io/atom.xml" rel="self"/>
   
   <link href="https://senlou.github.io/"/>
-  <updated>2025-04-12T09:08:05.567Z</updated>
+  <updated>2025-04-14T04:58:42.171Z</updated>
   <id>https://senlou.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>物联网学习</title>
+    <link href="https://senlou.github.io/posts/786671a1.html"/>
+    <id>https://senlou.github.io/posts/786671a1.html</id>
+    <published>2025-04-14T04:14:00.402Z</published>
+    <updated>2025-04-14T04:58:42.171Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一、基础阶段"><a href="#一、基础阶段" class="headerlink" title="一、基础阶段"></a>一、基础阶段</h1><h2 id="1-硬件与电子基础"><a href="#1-硬件与电子基础" class="headerlink" title="1.硬件与电子基础"></a>1.硬件与电子基础</h2><ul><li>学习内容：<ul><li>电路基础（电阻、电容、电感、欧姆定律等）</li><li>常见电子元器件（传感器、执行器、ADC/DAC等）</li><li>单片机（如Arduino、ESP8266/ESP32、STM32）</li></ul></li><li>实践项目：<ul><li>用Arduino点亮LED、读取温湿度传感器（如DHT11）</li><li>用ESP8266连接Wi-Fi并上传数据。<h2 id="2-编程与网络"><a href="#2-编程与网络" class="headerlink" title="2.编程与网络"></a>2.编程与网络</h2></li></ul></li><li>核心语言：<ul><li>C/C++：嵌入式开发主流语言</li><li>Python:用于数据分析、后端开发(如Django/Flask)和脚本控制</li></ul></li><li>学习重点：<ul><li>掌握基本语法、函数、数据结构（如列表、字典）</li><li>学习通过串口与硬件通信（如PySerial）<h2 id="3-网络与通信协议"><a href="#3-网络与通信协议" class="headerlink" title="3.网络与通信协议"></a>3.网络与通信协议</h2></li></ul></li><li>基础协议：<ul><li>有线通信：UART、SPI、I2C</li><li>无限通信：Wi-Fi\蓝牙（BLE）、Zigbee、LoRa、NB-IoT</li></ul></li><li>物联网协议：<ul><li>MQTT（轻量级发布/订阅协议，适合低带宽场景）</li><li>CoAP（基于REST的协议，适合资源受限设备）</li><li>HTTP/WebSocket（用于云端交互）<h2 id="操作系统与嵌入式开发"><a href="#操作系统与嵌入式开发" class="headerlink" title="操作系统与嵌入式开发"></a>操作系统与嵌入式开发</h2></li></ul></li><li>实时操作系统（RTOS）：<ul><li>FreeRTOS、Zephyr（用于多任务调度）</li></ul></li><li>Linux基础：<ul><li>树莓派（Raspberry Pi）开发，学习Linux命令和Shell脚本。<h1 id="二、进阶阶段"><a href="#二、进阶阶段" class="headerlink" title="二、进阶阶段"></a>二、进阶阶段</h1></li></ul></li><li>主流物联网平台：<ul><li>阿里云IoT、AWS IoT、腾讯云IoT、Google Cloud IoT</li><li>开源平台：Home Assistant、ThingsBoard（用于设备管理和可视化）</li></ul></li><li>学习内容：<ul><li>设备注册、数据上报、规则引擎、OTA升级</li><li>使用MQTT或HTTP与云端交互<h2 id="2-数据处理与分析"><a href="#2-数据处理与分析" class="headerlink" title="2. 数据处理与分析"></a>2. 数据处理与分析</h2></li></ul></li><li>数据存储：<ul><li>数据库：MySQL（关系型）、InfluxDB（时序数据库）、MongoDB（NoSQL）</li></ul></li><li>数据分析：<ul><li>用Python的Pandas、NumPy处理数据</li><li>可视化工具：Grafana、Tableau</li></ul></li><li>边缘计算：<ul><li>在设备端进行初步数据处理（如TensorFlow Lite for Microcontrollers）<h2 id="前端与后端开发"><a href="#前端与后端开发" class="headerlink" title="前端与后端开发"></a>前端与后端开发</h2></li></ul></li><li>后端开发：<ul><li>用Node.js、Python（Django/Flask）搭建服务器</li><li>RESTful API设计</li></ul></li><li>前端开发：<ul><li>Web界面：HTML/CSS/JavaScript + Vue.js/React</li><li>移动端：Android（Kotlin）或iOS（Swift）开发App<h2 id="4-安全与隐私"><a href="#4-安全与隐私" class="headerlink" title="4.安全与隐私"></a>4.安全与隐私</h2></li></ul></li><li>物联网安全：<ul><li>加密通信（TLS/SSL）、设备认证（OAuth2.0、X.509证书）</li><li>常见攻击防范（DDoS、中间人攻击）<h2 id="三、专项领域"><a href="#三、专项领域" class="headerlink" title="三、专项领域"></a>三、专项领域</h2></li></ul></li></ul><ol><li>智能家居：<ul><li>学习Home Assistant、OpenHAB，集成多种设备（灯光、安防）</li></ul></li><li>工业物联网（IIoT）：<ul><li>PLC通信（Modbus协议）、工业网关开发。</li></ul></li><li>智慧城市：<ul><li>低功耗广域网（LPWAN：LoRa、NB-IoT）、大规模传感器部署</li></ul></li><li>人工智能与物联网（AIoT）：<ul><li>在边缘设备部署AI模型（如图像识别、异常检测）。</li></ul></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;一、基础阶段&quot;&gt;&lt;a href=&quot;#一、基础阶段&quot; class=&quot;headerlink&quot; title=&quot;一、基础阶段&quot;&gt;&lt;/a&gt;一、基础阶段&lt;/h1&gt;&lt;h2 id=&quot;1-硬件与电子基础&quot;&gt;&lt;a href=&quot;#1-硬件与电子基础&quot; class=&quot;headerlink</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>前端教程</title>
