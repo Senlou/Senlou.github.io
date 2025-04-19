@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://senlou.github.io/posts/93e4730e.html</loc>
+    
+    <lastmod>2025-04-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://senlou.github.io/posts/0.html</loc>
+    
+    <lastmod>2025-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://senlou.github.io/posts/786671a1.html</loc>
     
     <lastmod>2025-04-14</lastmod>
@@ -58,7 +76,7 @@
 
   <url>
     <loc>https://senlou.github.io/</loc>
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
