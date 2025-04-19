@@ -6,7 +6,7 @@
   <link href="https://senlou.github.io/atom.xml" rel="self"/>
   
   <link href="https://senlou.github.io/"/>
-  <updated>2025-04-15T03:00:13.284Z</updated>
+  <updated>2025-04-19T02:19:27.742Z</updated>
   <id>https://senlou.github.io/</id>
   
   <author>
@@ -17,26 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://senlou.github.io/posts/0.html"/>
-    <id>https://senlou.github.io/posts/0.html</id>
-    <published>2025-04-15T02:30:41.196Z</published>
-    <updated>2025-04-15T03:00:13.284Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>高等数学</title>
     <link href="https://senlou.github.io/posts/93e4730e.html"/>
     <id>https://senlou.github.io/posts/93e4730e.html</id>
     <published>2025-04-15T02:30:26.613Z</published>
-    <updated>2025-04-17T03:30:58.057Z</updated>
+    <updated>2025-04-19T02:19:27.742Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h1><h2 id="函数概念"><a href="#函数概念" class="headerlink" title="函数概念"></a>函数概念</h2><ul><li>考点<ul><li>定义域：指x的取值范围</li><li>对应法则：指对x的加工/处理方式，用f,g,h…</li></ul></li></ul><h3 id="定义域及对应法则对应法则-Leftrightarrow-两要素"><a href="#定义域及对应法则对应法则-Leftrightarrow-两要素" class="headerlink" title="$定义域及对应法则对应法则 \Leftrightarrow 两要素$"></a>$定义域及对应法则对应法则 \Leftrightarrow 两要素$</h3><ul><li>定义域考点：<ol><li>具体函数求定义域</li><li>抽象函数求定义域</li></ol></li></ul><h2 id="求具体函数定义域"><a href="#求具体函数定义域" class="headerlink" title="求具体函数定义域"></a>求具体函数定义域</h2><ul><li>常见具体函数定义域<ol><li>$y=\frac{1}{x},x \neq 0$</li><li>$y=\sqrt[2n]{x},x x \geq 0$</li><li>$y=\sqrt[2n+1]{x},x \in (-\infty,+\infty)$</li><li>$y=\log_a(x),x &gt; 0.\ln x,x&gt;0$</li><li>$y=\tan x,x \neq k\pi +\frac{\pi}{2}$</li><li>$y=\cot x,\pi \neq k\pi$</li><li>$y=\arctan x,y=\arccos x$</li><li>$y=\arcsin x,y=\arccos x,x\in [-1,1]$</li></ol></li></ul><h2 id="求抽象函数定义域"><a href="#求抽象函数定义域" class="headerlink" title="求抽象函数定义域"></a>求抽象函数定义域</h2><p>题型：已知$f(□)$的定义域，求$f(△)$中x的范围（定义域）<br>解法：两函数对应法则一样，自各自括号内范围因相同<br>及：若a</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h1><h2 id="函数概念"><a href="#函数概念" class="headerlink" title="函数概念"></a>函数概念</h2><ul><li>考点<ul><li>定义域：指x的取值范围</li><li>对应法则：指对x的加工/处理方式，用f,g,h…</li></ul></li></ul><h3 id="定义域及对应法则对应法则-Leftrightarrow-两要素"><a href="#定义域及对应法则对应法则-Leftrightarrow-两要素" class="headerlink" title="$定义域及对应法则对应法则 \Leftrightarrow 两要素$"></a>$定义域及对应法则对应法则 \Leftrightarrow 两要素$</h3><ul><li>定义域考点：<ol><li>具体函数求定义域</li><li>抽象函数求定义域</li></ol></li></ul><h2 id="求具体函数定义域"><a href="#求具体函数定义域" class="headerlink" title="求具体函数定义域"></a>求具体函数定义域</h2><ul><li>常见具体函数定义域<ol><li>$y=\frac{1}{x},x \neq 0$</li><li>$y=\sqrt[2n]{x},x x \geq 0$</li><li>$y=\sqrt[2n+1]{x},x \in (-\infty,+\infty)$</li><li>$y=\log_a(x),x &gt; 0.\ln x,x&gt;0$</li><li>$y=\tan x,x \neq k\pi +\frac{\pi}{2}$</li><li>$y=\cot x,\pi \neq k\pi$</li><li>$y=\arctan x,y=\arccos x$</li><li>$y=\arcsin x,y=\arccos x,x\in [-1,1]$</li></ol></li></ul><h2 id="求抽象函数定义域"><a href="#求抽象函数定义域" class="headerlink" title="求抽象函数定义域"></a>求抽象函数定义域</h2><p>题型：已知$f(□)$的定义域，求$f(△)$中x的范围（定义域）<br>解法：两函数对应法则一样，自各自括号内范围因相同</p><h2 id="求函数表达式"><a href="#求函数表达式" class="headerlink" title="求函数表达式"></a>求函数表达式</h2><p>考点：根据函数对应法则，求函数表达式</p>]]></content>
     
     
       
